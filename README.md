@@ -91,14 +91,7 @@ El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y sa
     <img src="https://img.shields.io/badge/LinkedIn-Matías%20Volders-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="mailto:mativolders@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mativolders@gmail.com&su=Contacto%20desde%20GitHub">
     <img src="https://img.shields.io/badge/Email-Contactarme-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
----
-
-<p align="center">
-  Gracias por visitar mi perfil.
-</p>
-
