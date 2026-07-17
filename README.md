@@ -84,26 +84,6 @@ El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y sa
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Matias-Volders&show_icons=true&locale=es"
-    alt="Estadísticas de GitHub"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Volders&layout=compact&langs_count=8"
-    alt="Lenguajes más utilizados"
-  />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p>
@@ -111,7 +91,7 @@ El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y sa
     <img src="https://img.shields.io/badge/LinkedIn-Matías%20Volders-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:mativolders@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactarme-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
