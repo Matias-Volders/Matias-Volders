@@ -87,7 +87,7 @@ El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y sa
 ## 📫 Contacto
 
 <p>
-  <a href="[TU_LINK_DE_LINKEDIN](https://www.linkedin.com/in/matias-volders/)">
+  <a href="https://www.linkedin.com/in/matias-volders/">
     <img src="https://img.shields.io/badge/LinkedIn-Matías%20Volders-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
