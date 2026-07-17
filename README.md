@@ -1,16 +1,124 @@
-## Hi there 👋
+# ¡Hola! Soy Matías Volders 👋
 
-<!--
-**Matias-Volders/Matias-Volders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Sistemas de Información | Desarrollador Junior
 
-Here are some ideas to get you started:
+Soy estudiante de **3er año de Ingeniería en Sistemas de Información en la UTN** y me interesa especialmente el desarrollo de software, tanto en frontend como en backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A través de proyectos académicos y personales, trabajé en aplicaciones web, APIs REST, sistemas distribuidos y soluciones basadas en microservicios. Busco mi primera oportunidad profesional para aplicar mis conocimientos, integrarme a un equipo de trabajo y continuar creciendo en proyectos reales.
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de Ingeniería en Sistemas de Información en la **UTN**.
+- 💻 Interesado en el desarrollo **Backend, Frontend y Full Stack**.
+- 🧠 Conocimientos de arquitectura por capas, APIs REST, microservicios, concurrencia y testing.
+- 🤝 Experiencia trabajando en proyectos grupales con Git y GitHub.
+- 🚀 Buscando mi primera oportunidad como desarrollador **Trainee/Junior**.
+- 📚 Actualmente continúo profundizando mis conocimientos en Java, Spring Boot, React y desarrollo de sistemas distribuidos.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,go,c,cpp,html,css" />
+</p>
+
+### Frameworks y bibliotecas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" />
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🏥 Sweet Medical
+
+Plataforma web para la gestión de turnos médicos, desarrollada como trabajo práctico universitario.
+
+La aplicación permite que los pacientes busquen y reserven turnos, mientras que los médicos administran sus servicios, disponibilidades y turnos asignados.
+
+**Tecnologías:** React, Node.js, Express, MongoDB, JWT, Jest, Cypress, Docker, Render y Netlify.
+
+- [Backend de Sweet Medical](https://github.com/Matias-Volders/sweet-medical-backend)
+- [Frontend de Sweet Medical](https://github.com/Matias-Volders/sweet-medical-frontend)
+
+---
+
+### 🚚 DonaTrack
+
+Sistema distribuido basado en microservicios para gestionar donaciones, incentivos, notificaciones, planificación logística y trazabilidad de entregas.
+
+Incluye integración con un componente externo para generar rutas, procesamiento asincrónico de notificaciones y comunicación entre microservicios.
+
+**Tecnologías:** Java, Spring Boot, APIs REST, MongoDB, Docker, Postman y arquitectura de microservicios.
+
+---
+
+### ⚙️ Simulador de Sistema Operativo
+
+Simulación de componentes de un sistema operativo desarrollada en Go.
+
+El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y salida, comunicados mediante APIs y ejecutados de manera concurrente.
+
+**Tecnologías:** Go, concurrencia, APIs HTTP, planificación de procesos y gestión de memoria.
+
+- [Ver repositorio](https://github.com/Matias-Volders/RepoTP-SSOO)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Matias-Volders&show_icons=true&locale=es"
+    alt="Estadísticas de GitHub"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matias-Volders&layout=compact&langs_count=8"
+    alt="Lenguajes más utilizados"
+  />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Matías%20Volders-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Email-Contactarme-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil.
+</p>
+
