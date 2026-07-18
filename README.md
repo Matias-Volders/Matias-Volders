@@ -70,6 +70,7 @@ Incluye integración con un componente externo para generar rutas, procesamiento
 
 **Tecnologías:** Java, Spring Boot, APIs REST, MongoDB, Docker, Postman y arquitectura de microservicios.
 
+- [Ver repositorio](https://github.com/dds-utn/2026-tpa-lu-no-grupo-02)
 ---
 
 ### ⚙️ Simulador de Sistema Operativo
