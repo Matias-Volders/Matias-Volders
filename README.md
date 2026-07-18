@@ -62,17 +62,6 @@ La aplicación permite que los pacientes busquen y reserven turnos, mientras que
 
 ---
 
-### 🚚 DonaTrack
-
-Sistema distribuido basado en microservicios para gestionar donaciones, incentivos, notificaciones, planificación logística y trazabilidad de entregas.
-
-Incluye integración con un componente externo para generar rutas, procesamiento asincrónico de notificaciones y comunicación entre microservicios.
-
-**Tecnologías:** Java, Spring Boot, APIs REST, MongoDB, Docker, Postman y arquitectura de microservicios.
-
-- [Ver repositorio](https://github.com/dds-utn/2026-tpa-lu-no-grupo-02)
----
-
 ### ⚙️ Simulador de Sistema Operativo
 
 Simulación de componentes de un sistema operativo desarrollada en Go.
@@ -83,6 +72,16 @@ El sistema incluye módulos de Kernel, CPU, Memoria e interfaces de entrada y sa
 
 - [Ver repositorio](https://github.com/Matias-Volders/RepoTP-SSOO)
 
+---
+### 🚚 DonaTrack
+
+Sistema distribuido basado en microservicios para gestionar donaciones, incentivos, notificaciones, planificación logística y trazabilidad de entregas.
+
+Incluye integración con un componente externo para generar rutas, procesamiento asincrónico de notificaciones y comunicación entre microservicios.
+
+**Tecnologías:** Java, Spring Boot, APIs REST, MongoDB, Docker, Postman y arquitectura de microservicios.
+
+- [Ver repositorio](https://github.com/dds-utn/2026-tpa-lu-no-grupo-02)
 ---
 
 ## 📫 Contacto
