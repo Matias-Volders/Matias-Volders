@@ -84,6 +84,17 @@ Incluye integración con un componente externo para generar rutas, procesamiento
 - [Ver repositorio](https://github.com/dds-utn/2026-tpa-lu-no-grupo-02)
 ---
 
+### 💰 Sistema de Gestión de Gastos
+
+Proyecto individual orientado a la gestión de finanzas personales, que permite registrar y administrar ingresos y gastos, consultar el balance y organizar los movimientos realizados.
+
+Incluye autenticación de usuarios, persistencia de datos y una interfaz web para interactuar con las distintas funcionalidades del sistema.
+
+**Tecnologías:** Python, Flask, HTML5, CSS3, JSON y autenticación mediante sesiones.
+
+- [Ver repositorio](https://github.com/Matias-Volders/Sistema-De-Gastos)
+
+
 ## 📫 Contacto
 
 <p>
